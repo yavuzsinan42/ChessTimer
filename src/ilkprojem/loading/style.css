@@ -1,0 +1,11 @@
+.back{
+    -fx-background-image: url("../image/Background.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.back2{
+    -fx-background-image: url("../image/loading_logo.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
